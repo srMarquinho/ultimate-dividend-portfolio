@@ -8,7 +8,7 @@ Ultimately an essential - powerful  - easy to use - dividend portfolio sheet.
 
     [Here is an example with my own portfolio for reference](https://docs.google.com/spreadsheets/d/1gr728XUxZ1yBe2oznmXLAW1LlwyGl_Io7DpbiPQMqFc/edit?usp=sharing)
 
-    [**Here is the blank template you need to make a COPY**](https://docs.google.com/spreadsheets/d/1TZixfk57fWBB2Z80-TkbtwgfiLlOSZ8488CddZ8lMv0/copy?usp=sharing)
+    [**Here is the blank template you need to make a COPY**](https://docs.google.com/spreadsheets/d/1TZixfk57fWBB2Z80-TkbtwgfiLlOSZ8488CddZ8lMv0/copy?usp=sharing) - this will create a copy to yourself on Google Drive!!!
 
 1. Install and authorize scripts. That's necessary to give scripts access to your sheets.
 
