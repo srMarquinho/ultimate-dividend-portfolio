@@ -6,9 +6,9 @@ Ultimately an essential - powerful  - easy to use - dividend portfolio sheet.
 1. Make a copy of the spreadsheet.
     If sharing, bookmarking or saving the link. Use [this GitHub page](https://github.com/srMarquinho/ultimate-dividend-portfolio) as the copy link may likely change overtime.
 
-    [Here is an example with my own portfolio for reference]()
+    [Here is an example with my own portfolio for reference](https://docs.google.com/spreadsheets/d/1gr728XUxZ1yBe2oznmXLAW1LlwyGl_Io7DpbiPQMqFc/edit?usp=sharing)
 
-    [**Here is the blank template you need to make a COPY**]()
+    [**Here is the blank template you need to make a COPY**](https://docs.google.com/spreadsheets/d/1TZixfk57fWBB2Z80-TkbtwgfiLlOSZ8488CddZ8lMv0/copy?usp=sharing)
 
 1. Install and authorize scripts. That's necessary to give scripts access to your sheets.
 
@@ -17,8 +17,11 @@ Ultimately an essential - powerful  - easy to use - dividend portfolio sheet.
     This will give you a sidebar where you can stay up to date with any update.
 
     <img src="./images/PortfolioMenu.png" width="300">
+
     <img src="./images/Authorisation.png" width="300">
+
     <img src="./images/Verify.png" width="300">
+
     <img src="./images/Allow.png" width="300">
 
     Don't worry. This is open source. Google just wants to ensure you are aware a script will run.
