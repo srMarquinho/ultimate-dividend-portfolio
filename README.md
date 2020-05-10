@@ -59,9 +59,15 @@
 - Once your "home" currency is chosen in the _"Settings"_, it should not be changed as it will be used for exchange based on the value added in _"Transactions"_.
 - Tip: In _"Transactions"_ your "home" currency exchange value will always be 1.
 
-### Find
+### Tips
 
-- Remember you can use "ctrl+f" ("cmd+f" on mac) to find for keywords in your sheet.
+Find: You can use `ctrl f` (`cmd f` on mac) to find for keywords in your sheet.
+
+Too big: Use `ctrl -` (`cmd -` on mac) to zoom out.
+
+Too small: Use `ctrl +` (`cmd +` on mac) to zoom in.
+
+Hundreds of transactions to add: You probably be alright adding the average price you paid for each stock. Unless you want a detailed summary. (transactions summary not yet available)
 
 ## ERROR Note
 
