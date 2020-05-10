@@ -28,9 +28,10 @@ Ultimately an essential - powerful  - easy to use - dividend portfolio sheet.
 1. Check _"Settings"_ sheet tab and choose your currency.
 
 1. Cells you **should** change and add your own values are light or dark **YELLOW(ish)**.
+
   IMPORTANT: **DO NOT edit any other cell**. Everything else is automatically populated.
 
-    <img src="./images/Table.png" width="150">
+    <div><img src="./images/Table.png" width="150"></div>
 
 1. That's all! You are ready. Just start adding your _"Transactions"_ to see the magic happen.
 
