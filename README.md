@@ -1,22 +1,29 @@
 # Ultimate Dividend Portfolio
 Ultimately an essential - powerful  - easy to use - dividend portfolio sheet.
 
-## Instructions
+## Getting a copy and giving access
 
 1. Make a copy of the spreadsheet.
-    If sharing, bookmarking or saving the link. Use [this GitHub page](https://github.com/srMarquinho/ultimate-dividend-portfolio) as the copy link may likely change.
+    If sharing, bookmarking or saving the link. Use [this GitHub page](https://github.com/srMarquinho/ultimate-dividend-portfolio) as the copy link may likely change overtime.
 
     [Here is an example with my own portfolio for reference]()
 
     [**Here is the blank template you need to make a COPY**]()
 
-1. Install. That's necessary to give scripts access to your sheets.
+1. Install and authorize scripts. That's necessary to give scripts access to your sheets.
 
     In the top menu click "PORTFOLIO" > "Welcome"
 
     This will give you a sidebar where you can stay up to date with any update.
 
-    <img src="./images/PortfolioMenu.png" width="400">
+    <img src="./images/PortfolioMenu.png" width="300">
+    <img src="./images/Authorisation.png" width="300">
+    <img src="./images/Verify.png" width="300">
+    <img src="./images/Allow.png" width="300">
+
+    Don't worry. This is open source. Google just wants to ensure you are aware a script will run.
+
+## Instructions
 
 1. Check _"Settings"_ sheet tab and choose your currency.
 
@@ -59,9 +66,9 @@ If you see #ERROR! or Loading...
 
 Try refreshing, if that does not work check that the ticker is correct and reload again.
 
-Please please please. Do not email me reporting these errors. They are Google errors and seem to affect some people and not others. Good luck ;)
+Please please please. Do not email me reporting these errors. They are Google errors and seem to be related to cache. Good luck ;)
 
-I'm planning a workaround one day.
+I'm planning a workaround one day. :/
 
 ## Issues and features
 
@@ -89,11 +96,12 @@ Create a Trading 212 Invest account using this link [www.trading212.com/invite
 
 And if you found this helpful, appreciate the time put on this sheet and you insist please donate any amount for the kids pig bank.
 By doing this you will be contributing to future updates and features. THANK YOU! :-*
-https://paypal.me/srmarquinho
 
 <a href="https://paypal.me/srmarquinho">
     <img alt="paypal.me/srmarquinho" src="./images/Paypal.png"
     width=125">
 </a>
+
+https://paypal.me/srmarquinho
 
 > Marco https://github.com/srMarquinho
