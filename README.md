@@ -33,7 +33,7 @@
 
   <div><img src="./images/Table.png" width="150"></div>
 
-1. That's all! You are ready. Just start adding your _"Transactions"_ to see the magic happen.
+1. That's all! You are ready. Start adding _"Transactions"_ to see the magic happen. (ensure `-` are actually `0`)
 
 ### Tooltips
 
