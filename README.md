@@ -61,13 +61,13 @@
 
 ### Tips
 
-Find: You can use `ctrl f` (`cmd f` on mac) to find for keywords in your sheet.
+**Find:** You can use `ctrl f` (`cmd f` on mac) to find for keywords in your sheet.
 
-Too big: Use `ctrl -` (`cmd -` on mac) to zoom out.
+**Too big:** Use `ctrl -` (`cmd -` on mac) to zoom out.
 
-Too small: Use `ctrl +` (`cmd +` on mac) to zoom in.
+**Too small:** Use `ctrl +` (`cmd +` on mac) to zoom in.
 
-Hundreds of transactions to add: You probably be alright adding the average price you paid for each stock. Unless you want a detailed summary. (transactions summary not yet available)
+**Hundreds of transactions to add:** You probably be alright adding the average price you paid for each stock. Unless you want a detailed summary. (transactions summary not yet available)
 
 ## ERROR Note
 
