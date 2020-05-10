@@ -1,7 +1,7 @@
 # Ultimate Dividend Portfolio
-Ultimately an essential - powerful  - easy to use - dividend portfolio sheet.
+:moneybag: Ultimately an essential - powerful  - easy to use - dividend portfolio sheet. :moneybag:
 
-## Getting a copy and giving access
+## :beginner: Getting a copy
 
 1. Make a copy of the spreadsheet.
     If sharing, bookmarking or saving the link. Use [this GitHub page](https://github.com/srMarquinho/ultimate-dividend-portfolio) as the copy link may likely change overtime.
@@ -10,7 +10,7 @@ Ultimately an essential - powerful  - easy to use - dividend portfolio sheet.
 
     [**Here is the blank template you need to make a COPY**](https://docs.google.com/spreadsheets/d/1TZixfk57fWBB2Z80-TkbtwgfiLlOSZ8488CddZ8lMv0/copy?usp=sharing) - this will create a copy to yourself on Google Drive!!!
 
-1. Install and authorize scripts. That's necessary to give scripts access to your sheets.
+1. Install and authorize scripts. That's necessary to give scripts access to your sheets. You will only need to do this once.
 
     In the top menu click "PORTFOLIO" > "Welcome"
 
@@ -23,13 +23,13 @@ Ultimately an essential - powerful  - easy to use - dividend portfolio sheet.
 
     Don't worry. This is open source. Google just wants to ensure you are aware a script will run.
 
-## Instructions
+## :beginner: Instructions
 
 1. Check _"Settings"_ sheet tab and choose your currency.
 
 1. Cells you **should** change and add your own values are light or dark **YELLOW(ish)**.
 
-  IMPORTANT: **DO NOT edit any other cell**. Everything else is automatically populated.
+  :warning: **DO NOT edit any other cell**. Everything else is automatically populated.
 
   <div><img src="./images/Table.png" width="150"></div>
 
@@ -39,6 +39,13 @@ Ultimately an essential - powerful  - easy to use - dividend portfolio sheet.
 
 - Check for tooltips by hovering over the first row cells.
 - I encourage you to chase tooltips ;D
+
+### _Overrides_ - (Missing data in the "Portfolio")
+
+- This is optional.
+- At times "the provider" may not have the information for the ticker you entered. Showing N/A.
+- Again, **DO NOT edit any grey cell** in the "Portfolio", if you do it may brake the auto-populate.
+- Instead use the tab _"Overrides"_ to enter the missing information you need.
 
 ### Sorting
 
@@ -52,11 +59,6 @@ Ultimately an essential - powerful  - easy to use - dividend portfolio sheet.
 - Once your "home" currency is chosen in the _"Settings"_, it should not be changed as it will be used for exchange based on the value added in _"Transactions"_.
 - Tip: In _"Transactions"_ your "home" currency exchange value will always be 1.
 
-### Missing data in the "Portfolio" (Overrides)
-
-- Sometimes the provider may not have the information for the ticker you entered. Showing N/A.
-- Again, **DO NOT edit any grey cell** on the "Portfolio". Instead use the tab "Overrides" to enter the missing information you need.
-
 ### Find
 
 - Remember you can use "ctrl+f" ("cmd+f" on mac) to find for keywords in your sheet.
@@ -69,17 +71,17 @@ Try refreshing, if that does not work check that the ticker is correct and reloa
 
 Please please please. Do not email me reporting these errors. They are Google errors and seem to be related to cache. Good luck ;)
 
-I'm planning a workaround one day. :/
+I'm planning a workaround one day. :neutral_face:
 
 ## Issues and features
 
 You are welcome to open issues an features here on GitHub.
 
-Just keep in mind I'm a busy dad and it may take some time for your wish to come true.
+:children_crossing: Just keep in mind I'm a busy dad and it may take some time for your wish to come true.
 
 ------------------
 
-**If you follow the rules you should have a smooth experience.**
+:white_check_mark: **If you follow the rules you should have a smooth experience.**
 
 ------------------
 
