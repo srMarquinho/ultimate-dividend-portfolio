@@ -104,7 +104,7 @@ Create a Trading 212 Invest account using this link [www.trading212.com/invite
 ------------------
 
 And if you found this helpful, appreciate the time put on this sheet and you insist please donate any amount for the kids pig bank.
-By doing this you will be contributing to future updates and features. THANK YOU! :-*
+By doing this you will be contributing to future updates and features. THANK YOU! :kissing_smiling_eyes:
 
 <a href="https://paypal.me/srmarquinho">
     <img alt="paypal.me/srmarquinho" src="./images/Paypal.png"
