@@ -31,7 +31,7 @@ Ultimately an essential - powerful  - easy to use - dividend portfolio sheet.
 
   IMPORTANT: **DO NOT edit any other cell**. Everything else is automatically populated.
 
-    <div><img src="./images/Table.png" width="150"></div>
+  <div><img src="./images/Table.png" width="150"></div>
 
 1. That's all! You are ready. Just start adding your _"Transactions"_ to see the magic happen.
 
