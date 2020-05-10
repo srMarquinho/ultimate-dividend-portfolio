@@ -16,13 +16,10 @@ Ultimately an essential - powerful  - easy to use - dividend portfolio sheet.
 
     This will give you a sidebar where you can stay up to date with any update.
 
-    <img src="./images/PortfolioMenu.png" width="300">
-
-    <img src="./images/Authorisation.png" width="300">
-
-    <img src="./images/Verify.png" width="300">
-
-    <img src="./images/Allow.png" width="300">
+    <div><img src="./images/PortfolioMenu.png" width="300"></div>
+    <div><img src="./images/Authorisation.png" width="300"></div>
+    <div><img src="./images/Verify.png" width="300"></div>
+    <div><img src="./images/Allow.png" width="300"></div>
 
     Don't worry. This is open source. Google just wants to ensure you are aware a script will run.
 
