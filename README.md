@@ -83,7 +83,7 @@ I'm planning a workaround one day. :neutral_face:
 
 You are welcome to open issues an features here on GitHub.
 
-:children_crossing: Just keep in mind I'm a busy dad and it may take some time for your wish to come true.
+:children_crossing: Just keep in mind I'm a busy dad full time worker and it may take some time for your wish to come true.
 
 ------------------
 
