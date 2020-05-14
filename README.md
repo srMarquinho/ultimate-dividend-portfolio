@@ -12,16 +12,18 @@
 
 1. Install and authorize scripts. That's necessary to give scripts access to your sheets. You will only need to do this once.
 
-    In the top menu click "PORTFOLIO" > "Welcome"
-
-    This will give you a sidebar where you can stay up to date with any update.
-
+    - In the top menu click "PORTFOLIO" > "Install"
     <div><img src="./images/PortfolioMenu.png" width="300"></div>
+    --
     <div><img src="./images/Authorisation.png" width="300"></div>
+    --
     <div><img src="./images/Verify.png" width="300"></div>
+    --
     <div><img src="./images/Allow.png" width="300"></div>
-
-    Don't worry. This is open source. Google just wants to ensure you are aware a script will run.
+    - After giving the permissions, due to security polices you will have to click install again to actually run the install this time. If you see the Welcome side bar you are ready. (I know, a bit annoying planning a work around in the future)
+    -  In the top menu click "PORTFOLIO" > "Install"
+    - Don't worry. This is open source. Google just wants to ensure you are aware a script will run.
+    - The sidebar is where you can stay up to date with any update.
 
 ## :beginner: Instructions
 
