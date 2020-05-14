@@ -11,9 +11,10 @@
     [**Here is the blank template you need to make a COPY**](https://docs.google.com/spreadsheets/d/1TZixfk57fWBB2Z80-TkbtwgfiLlOSZ8488CddZ8lMv0/copy?usp=sharing) - this will create a copy to yourself on Google Drive!!!
 
 1. Install and authorize scripts. That's necessary to give scripts access to your sheets. You will only need to do this once.
+> Don't worry. This is open source. Google just wants to ensure you are aware a script will run.
 
 - In the top menu click "PORTFOLIO" > "Install"
-    
+
 <div><img src="./images/PortfolioMenu.png" width="300"></div>
 --
 <div><img src="./images/Authorisation.png" width="300"></div>
@@ -21,10 +22,9 @@
 <div><img src="./images/Verify.png" width="300"></div>
 --
 <div><img src="./images/Allow.png" width="300"></div>
-    
+
 - After giving the permissions, due to security polices you will have to click install again to actually run the install this time. If you see the Welcome side bar you are ready. (I know, a bit annoying planning a work around in the future)
 -  In the top menu click "PORTFOLIO" > "Install"
-- Don't worry. This is open source. Google just wants to ensure you are aware a script will run.
 - The sidebar is where you can stay up to date with any update.
 
 ## :beginner: Instructions
