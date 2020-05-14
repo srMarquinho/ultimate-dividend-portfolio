@@ -24,7 +24,7 @@
 --
 <div><img src="./images/Allow.png" width="300"></div>
 
-- The sidebar is where you can stay up to date with any update.
+- Reload the page. The sidebar is where you can stay up to date with any update.
 
 ## :beginner: Instructions
 
