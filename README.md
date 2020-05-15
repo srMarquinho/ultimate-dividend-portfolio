@@ -1,4 +1,4 @@
-# Ultimate Dividend Portfolio
+# Ultimate Dividend Portfolio Spreadsheet
 :moneybag: Ultimately an essential - powerful  - easy to use - dividend portfolio sheet. :moneybag:
 
 ## :beginner: Getting a copy
