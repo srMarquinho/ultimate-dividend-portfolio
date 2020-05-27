@@ -1,6 +1,25 @@
 # Ultimate Dividend Portfolio Spreadsheet
 :moneybag: Ultimately an essential - powerful  - easy to use - dividend portfolio sheet. :moneybag:
 
+## :beginner: Features
+
+1. It's extremely easy to use and easy for the eyes (or at least intended to). Add your transactions and :boom:
+
+1. **Wish List**
+    - Add the ticker and the value you wish to sell or buy and track if your wish came true with detailed information.
+
+1. **Portfolio - Portfolio Summary - Sectors Summary**
+    - All the information you need about all stocks in your portfolio.
+
+1.  **Transactions - Transactions Summary**
+    - This is where the magic lives. Add your transaction and track your actions.
+    - Find by date range or stock.
+
+1. **Dividend Income - Dividend Income Summary**
+    - Add the dividends you've received and track them in the summary.
+    - Find by date range, stock or type.
+    - Great for tracking dividend growth.
+
 ## :beginner: Getting a copy
 
 1. Make a copy of the spreadsheet.
@@ -32,11 +51,13 @@
 
 1. Cells you **should** change and add your own values are light or dark **YELLOW(ish)**.
 
-  :warning: **DO NOT edit any other cell**. Everything else is automatically populated.
+    :warning: **DO NOT edit any other cell**. Everything else is automatically populated.
 
-  <div><img src="./images/Table.png" width="150"></div>
+    <div><img src="./images/Table.png" width="150"></div>
 
-1. That's all! You are ready. Start adding _"Transactions"_ to see the magic happen. (ensure `-` are actually `0`)
+1. That's all! You are ready. Start adding _"Transactions"_ to see the magic happen.
+    - Ensure `-` are actually `0`.
+    - You can add one transaction per stock with the average value paid if that's preferable by you.
 
 - **NOTE: If you are updating from beta.**
   - Copy and paste all yellowish cells and paste in the new sheet. (right click `Paste special` > `Paste values only`)
