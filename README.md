@@ -5,7 +5,9 @@
 
 1. It's extremely easy to use and easy for the eyes (or at least intended to). Add your transactions and :boom:
 
-1. It's 100% free! No subscriptions and no sign-up.
+1. It's 100% free! No subscriptions and no sign-ups.
+
+1. Use and buy at any currency.
 
 1. **Wish List**
     - Add the ticker and the value you wish to sell or buy and track if your wish came true with detailed information.
