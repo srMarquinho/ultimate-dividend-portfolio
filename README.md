@@ -115,4 +115,5 @@ By doing this you will be contributing to future updates and features. THANK YOU
 
 https://paypal.me/srmarquinho
 
-> Marco https://github.com/srMarquinho
+> Marco 
+> :link: https://www.linkedin.com/in/srmarquinho/
