@@ -74,7 +74,7 @@
 
 **Too small:** Use `ctrl +` (`cmd +` on mac) to zoom in.
 
-**Hundreds of transactions to add:** You probably be alright adding the average price you paid for each stock. Unless you want a detailed summary. (transactions summary not yet available)
+**Hundreds of transactions to add:** You probably be alright adding the average price you paid for each stock. Unless you want a detailed summary.
 
 ## "#ERROR!" or "Loading..." Note
 
