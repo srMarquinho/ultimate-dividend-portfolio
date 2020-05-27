@@ -14,7 +14,7 @@
 
 > Don't worry. This is open source. Google just wants to ensure you are aware a script will run.
 
-- In the top menu click "PORTFOLIO" > "About"
+  - In the top menu click "PORTFOLIO" > "About"
 
 <div><img src="./images/PortfolioMenu.png" width="300"></div>
 --
@@ -24,7 +24,7 @@
 --
 <div><img src="./images/Allow.png" width="300"></div>
 
-- Reload the page. The sidebar is where you can stay up to date with any update.
+- Reload the page. If you see the sidebar you are set. The sidebar is where you can stay up to date with any update.
 
 ## :beginner: Instructions
 
