@@ -14,7 +14,7 @@
 
 > Don't worry. This is open source. Google just wants to ensure you are aware a script will run.
 
-- In the top menu click "PORTFOLIO" > "Welcome"
+- In the top menu click "PORTFOLIO" > "About"
 
 <div><img src="./images/PortfolioMenu.png" width="300"></div>
 --
@@ -37,6 +37,10 @@
   <div><img src="./images/Table.png" width="150"></div>
 
 1. That's all! You are ready. Start adding _"Transactions"_ to see the magic happen. (ensure `-` are actually `0`)
+
+- **NOTE: If you are updating from beta.**
+  - Copy and paste all yellowish cells and paste in the new sheet. (right click `Paste special` > `Paste values only`)
+  - From the _Overrides_ section note that "Forward dividend" is no longer in use and the column has been deleted.
 
 ### Tooltips
 
