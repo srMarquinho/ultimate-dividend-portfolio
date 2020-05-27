@@ -4,7 +4,7 @@
 ## :beginner: Getting a copy
 
 1. Make a copy of the spreadsheet.
-    If sharing, bookmarking or saving the link. Use [this GitHub page](https://github.com/srMarquinho/ultimate-dividend-portfolio) as the copy link may likely change overtime.
+    If sharing, bookmarking or saving the link. Use [this GitHub page](https://srmarquinho.github.io/ultimate-dividend-portfolio/) as the copy link may likely change overtime.
 
     [Here is an example with my own portfolio for reference](https://docs.google.com/spreadsheets/d/1gr728XUxZ1yBe2oznmXLAW1LlwyGl_Io7DpbiPQMqFc/edit?usp=sharing)
 
