@@ -110,8 +110,7 @@ And if you found this helpful and appreciate the time put on this sheet, send yo
 By doing this you will be contributing to future updates and features. THANK YOU! :kissing_smiling_eyes:
 
 <a href="https://paypal.me/srmarquinho">
-    <img alt="paypal.me/srmarquinho" src="./images/Paypal.png"
-    width=125">
+  <img alt="paypal.me/srmarquinho" src="./images/Paypal.png" width="125">
 </a>
 
 https://paypal.me/srmarquinho
