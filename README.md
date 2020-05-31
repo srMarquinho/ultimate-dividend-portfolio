@@ -29,9 +29,9 @@
 1. Make a copy of the spreadsheet.
     If sharing, bookmarking or saving the link. Use [this GitHub page](https://srmarquinho.github.io/ultimate-dividend-portfolio/) as the copy link may likely change overtime.
 
-    [Here is an example with my own portfolio for reference](https://docs.google.com/spreadsheets/d/11TTXusLRZ4FY0hlNKK0wxT6kyhfAZi5dP8sACWZaauA/edit?usp=sharing)
+    :bar_chart: [Here is an example with my own portfolio for reference](https://docs.google.com/spreadsheets/d/11TTXusLRZ4FY0hlNKK0wxT6kyhfAZi5dP8sACWZaauA/edit?usp=sharing)
 
-    [**Here is the blank template you need to make a COPY**](https://docs.google.com/spreadsheets/d/1bKsZjc8phniiR7NSL_pzfpgbLte4eVXMxAm57KPmLdA/copy?usp=sharing) - this will create a copy to yourself on Google Drive!!!
+    :bar_chart: [**Here is the blank template you need to make a COPY**](https://docs.google.com/spreadsheets/d/1bKsZjc8phniiR7NSL_pzfpgbLte4eVXMxAm57KPmLdA/copy?usp=sharing) - this will create a copy to yourself on Google Drive!!!
 
 1. Install and authorize scripts. That's necessary to give scripts access to your sheets. You will only need to do this once.
 
