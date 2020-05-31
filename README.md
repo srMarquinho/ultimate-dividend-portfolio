@@ -126,28 +126,53 @@ You are welcome to open issues an features here on GitHub.
 
 ------------------
 
-Trading 212 is the platform I use. It's commission free.
-
-<a href="www.trading212.com/invite/FMJUCzLD">
-  <img alt="trading212.com/invite/FMJUCzLD" src="./images/T212.jpg" width="150">
-</a>
-
-"**Do you want to get a free stock share worth up to £100?**
-
-Create a Trading 212 Invest account using this link [www.trading212.com/invite/FMJUCzLD](www.trading212.com/invite/FMJUCzLD) and we both get a free share!"
-
-------------------
-
 And if you found this helpful and appreciate the time put on this sheet, send your love by donating any amount for the kids piggy bank.
 By doing this you will be contributing to future updates and features. **THANK YOU!** :kissing_smiling_eyes:
 
-<a href="https://paypal.me/srmarquinho">
-  <img alt="paypal.me/srmarquinho" src="./images/Paypal.png" width="125">
-</a>
+<div class="flex-container">
+  <div class="flex-item">
+    <a href="https://paypal.me/srmarquinho">
+      <img alt="https://paypal.me/srmarquinho" src="./images/Paypal.png" width="125">
+    </a>
+    <a href="https://paypal.me/srmarquinho">https://paypal.me/srmarquinho</a>
+  </div>
+  <div class="flex-item">
+    <img alt="Bitcoin" src="./images/BitcoinQR.png" width="100">
+    <div><i>Bitcoin:</i> 3MTkTrPT5M4GDoc8z8SW7iPc5Vu7s76QSH</div>
+  </div>
+</div>
 
-https://paypal.me/srmarquinho
+------------------
 
->
-> Marco
->
+<div class="flex-item">
+  Trading 212 is the platform I use. It's commission free.
+
+  <a href="www.trading212.com/invite/FMJUCzLD">
+    <img alt="trading212.com/invite/FMJUCzLD" src="./images/T212.jpg" width="150">
+  </a>
+
+  **Do you want to get a free stock share worth up to £100?**
+
+  Create a Trading 212 Invest account using this link [www.trading212.com/invite/FMJUCzLD](www.trading212.com/invite/FMJUCzLD) and we both get a free share!"
+</div>
+
+------------------
+
 > :link: https://www.linkedin.com/in/srmarquinho/
+
+<style type='text/css'>
+
+  .flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .flex-item {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+  }
+</style>
