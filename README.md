@@ -156,14 +156,3 @@ Create a Trading 212 Invest account using this link [www.trading212.com/invite
 ------------------
 
 > :link: https://www.linkedin.com/in/srmarquinho/
-
-<style type='text/css'>
-
-  .flex-item {
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-    justify-content: center;
-    align-items: center;
-  }
-</style>
