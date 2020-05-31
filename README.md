@@ -155,4 +155,4 @@ Create a Trading 212 Invest account using this link [www.trading212.com/invite
 
 ------------------
 
-> :link: https://www.linkedin.com/in/srmarquinho/
+:link: [https://www.linkedin.com/in/srmarquinho/](https://www.linkedin.com/in/srmarquinho/)
