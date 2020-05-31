@@ -129,14 +129,27 @@ You are welcome to open issues an features here on GitHub.
 And if you found this helpful and appreciate the time put on this sheet, send your love by donating any amount for the kids piggy bank.
 By doing this you will be contributing to future updates and features. **THANK YOU!** :kissing_smiling_eyes:
 
-<div class="flex-container">
-  <div class="flex-item">
+<div style="
+    display: flex;
+    justify-content: center;
+    align-items: center;">
+  <div class="
+      display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;">
     <a href="https://paypal.me/srmarquinho">
       <img alt="https://paypal.me/srmarquinho" src="./images/Paypal.png" width="125">
     </a>
     <a href="https://paypal.me/srmarquinho">https://paypal.me/srmarquinho</a>
   </div>
-  <div class="flex-item">
+  <div class="
+      display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;">
     <img alt="Bitcoin" src="./images/BitcoinQR.png" width="100">
     <div><i>Bitcoin:</i> 3MTkTrPT5M4GDoc8z8SW7iPc5Vu7s76QSH</div>
   </div>
@@ -144,7 +157,12 @@ By doing this you will be contributing to future updates and features. **THANK Y
 
 ------------------
 
-<div class="flex-item">
+<div class="
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;">
   Trading 212 is the platform I use. It's commission free.
 
   <a href="www.trading212.com/invite/FMJUCzLD">
@@ -159,20 +177,3 @@ By doing this you will be contributing to future updates and features. **THANK Y
 ------------------
 
 > :link: https://www.linkedin.com/in/srmarquinho/
-
-<style type='text/css'>
-
-  .flex-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .flex-item {
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-    justify-content: center;
-    align-items: center;
-  }
-</style>
