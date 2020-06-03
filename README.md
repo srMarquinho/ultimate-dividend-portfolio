@@ -143,15 +143,13 @@ By doing this you will be contributing to future updates and features. **THANK Y
 
 ------------------
 
-Trading 212 is the platform I use. It's commission free.
-
 <a href="www.trading212.com/invite/FMJUCzLD">
   <img alt="trading212.com/invite/FMJUCzLD" src="./images/T212.jpg" width="100">
 </a>
 
 **Do you want to get a free stock share worth up to £100?**
 
-Create a Trading 212 Invest account using this link [www.trading212.com/invite/FMJUCzLD](www.trading212.com/invite/FMJUCzLD) and we both get a free share!"
+Create a Trading 212 Invest account using this link [www.trading212.com/invite/FMJUCzLD](www.trading212.com/invite/FMJUCzLD) and we both get a free share! It's also commission free.
 
 ------------------
 
