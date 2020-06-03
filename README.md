@@ -157,7 +157,7 @@ Create a Trading 212 Invest account using this link [www.trading212.com/invite
 
 Coinbase is the world's most trusted place to buy and sell cryptocurrency. Open an account with this link, and if you buy or sell £79 or more of crypto, you'll receive £7 worth of free Bitcoin!
 
-https://www.coinbase.com/join/araujo_4md
+[https://www.coinbase.com/join/araujo_4md](https://www.coinbase.com/join/araujo_4md)
 
 ------------------
 
