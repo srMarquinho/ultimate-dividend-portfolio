@@ -146,7 +146,7 @@ By doing this you will be contributing to future updates and features. **THANK Y
 Trading 212 is the platform I use. It's commission free.
 
 <a href="www.trading212.com/invite/FMJUCzLD">
-  <img alt="trading212.com/invite/FMJUCzLD" src="./images/T212.jpg" width="150">
+  <img alt="trading212.com/invite/FMJUCzLD" src="./images/T212.jpg" width="100">
 </a>
 
 **Do you want to get a free stock share worth up to £100?**
@@ -155,9 +155,11 @@ Create a Trading 212 Invest account using this link [www.trading212.com/invite
 
 ------------------
 
-Coinbase is the world's most trusted place to buy and sell cryptocurrency. Open an account with this link, and if you buy or sell £79 or more of crypto, you'll receive £7 worth of free Bitcoin!
+<a href="https://www.coinbase.com/join/araujo_4md">
+  <img alt="https://www.coinbase.com/join/araujo_4md" src="./images/Coinbase.jpg" width="100">
+</a>
 
-[https://www.coinbase.com/join/araujo_4md](https://www.coinbase.com/join/araujo_4md)
+Coinbase is the world's most trusted place to buy and sell cryptocurrency. Open an account with this link [https://www.coinbase.com/join/araujo_4md](https://www.coinbase.com/join/araujo_4md), and if you buy or sell £79 or more of crypto, you'll receive £7 worth of free Bitcoin!
 
 ------------------
 
