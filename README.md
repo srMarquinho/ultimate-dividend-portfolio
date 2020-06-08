@@ -99,7 +99,13 @@
 
 **Too small:** Use `ctrl +` (`cmd +` on mac) to zoom in.
 
-**Hundreds of transactions to add:** You probably be alright adding the average price you paid for each stock. Unless you want a detailed summary.
+**Hundreds of transactions to add:** You probably be alright adding the average price you paid for each stock in the `Transactions` tab. Unless you want a detailed summary.
+  - Sum all the prices you've paid for a stock and divide it by the number of transactions to get your average cost.
+  - Use exchange `1` and add your average cost to that stock at `Buy/Sell Price` in your own currency.
+  - This is how my `VUSA.L` and my `JNJ` would look like i.e.:
+  <div>
+    <img alt="Average Transactions Example" src="./images/AverageTransactionsExample.png" width="100">
+  </div>
 
 ## "#ERROR!" or "Loading..." Note
 

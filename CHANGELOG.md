@@ -13,5 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.1] - 2020-05-28
 ### Added
 - Fix bug on dividend estimated calculation.
+
+
+## [1.0.0] - 2020-05-28
 ### Removed
 - Forward dividend - Removed in favor of Dividend Yield (%). Forward dividend may be confusing to some when dealing with multiple currencies.
