@@ -104,7 +104,7 @@
   - Use exchange `1` and add your average cost to that stock at `Buy/Sell Price` in your own currency.
   - This is how my `VUSA.L` and my `JNJ` would look like i.e.:
   <div>
-    <img alt="Average Transactions Example" src="./images/AverageTransactionsExample.png" width="100">
+    <img alt="Average Transactions Example" src="./images/AverageTransactionsExample.png" width="100%">
   </div>
 
 ## "#ERROR!" or "Loading..." Note
