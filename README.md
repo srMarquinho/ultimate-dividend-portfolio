@@ -7,7 +7,9 @@
 
 1. It's 100% free! No subscriptions and no sign-ups.
 
-1. Use and buy at any currency.
+1. View and buy at any currency.
+
+1. Multiple accounts support.
 
 1. **Wish List**
     - Add the ticker and the value you wish to sell or buy and track if your wish came true with detailed information.
@@ -133,7 +135,8 @@ You are welcome to open issues an features here on GitHub.
 
 ------------------
 
-And if you found this helpful and appreciate the time put on this sheet, send your love by donating any amount for the kids piggy bank.
+And if you found this helpful and appreciate the time put on this sheet, send your love by donating any amount to the kids piggy bank. *Any* amount won't be unnoticed. If you like to give me some reference, I can then thank you personally.
+
 By doing this you will be contributing to future updates and features. **THANK YOU!** :kissing_smiling_eyes:
 
 <div>
