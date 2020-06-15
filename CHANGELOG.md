@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - "Sector Summary" show `N/A` when no yield instead of blank.
 - Improve "Portfolio" formulas to reduce stuck "Loading...".
-- Fix "Dividend Income Summary" total accumulated graph calculation.
+- Fix "Dividend Income Summary" "Total Accumulated" graph calculation when multiple income in the same day.
 
 ## [1.0.1] - 2020-05-28
 ### Added
