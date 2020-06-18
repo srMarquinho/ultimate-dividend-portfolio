@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Filter by account in "Transactions Summary" and "Dividend Income Summary".
 ### Changed
+- Fixed transactions calculation when sold all stocks and bought again.
 - "Sector Summary" show `N/A` when no yield instead of blank.
 - Improve "Portfolio" formulas to reduce stuck "Loading...".
 - Fix "Dividend Income Summary" "Total Accumulated" graph calculation when multiple income in the same day.
