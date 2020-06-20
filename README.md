@@ -5,7 +5,7 @@
 
 1. It's extremely easy to use and easy for the eyes (or at least intended to). Add your transactions and :boom:
 
-1. It's 100% free! No subscriptions and no sign-ups.
+1. It's 100% free! No subscriptions, no ads and no sign-ups.
 
 1. View and buy at any currency.
 
@@ -61,13 +61,16 @@
 
     <div><img src="./images/Table.png" width="150"></div>
 
-1. That's all! You are ready. Start adding _"Transactions"_ to see the magic happen.
+1. You are ready. Start adding _"Transactions"_ to see the magic happen.
     - Ensure `-` are actually `0`.
     - You can add one transaction per stock with the average value paid if that's preferable by you.
 
-- **NOTE: If you are updating from beta.**
+- **UPDATE NOTES:**
   - Copy and paste all yellowish cells and paste in the new sheet. (right click `Paste special` > `Paste values only`)
-  - From the _Overrides_ section note that "Forward dividend" is no longer in use and the column has been deleted.
+  - **from beta**
+      - From the _Overrides_ section note that "Forward dividend" is no longer in use and the column has been deleted.
+  - **from 1.0.x**
+      - There's an extra column "account" in the "Dividend Income" tab.
 
 ### Tooltips
 
@@ -87,6 +90,7 @@
 - Order doesn't matter, all entries can be added in any order. A striped triangle in the first row can be used for re-ordering. For instance, you can order the "Portfolio" by name. My preferred way is by weight (Sort Z - A).
 - In the _"Portfolio"_ section you can also drag and drop columns and rows to re-order (just don't delete them). How cool is that?
 - Why not trying to sort by "Sectors", "Return %" or "Ex-dividend day"? ;)
+- When switching between accounts in the "Portfolio" tab you might need to sort again to remove blank lines.
 
 ### Currency
 
@@ -95,13 +99,13 @@
 
 ### Tips
 
+**Account view:** Double click cell `A1` in the "Portfolio" tab to select the account.
+
 **Find:** You can use `ctrl f` (`cmd f` on mac) to find for keywords in your sheet.
 
-**Too big:** Use `ctrl -` (`cmd -` on mac) to zoom out.
+**Too big or too small:** Use `ctrl -` (`cmd -` on mac) to zoom out or `ctrl +` (`cmd +` on mac) to zoom in.
 
-**Too small:** Use `ctrl +` (`cmd +` on mac) to zoom in.
-
-**Hundreds of transactions to add:** You probably be alright adding the average price you paid for each stock in the `Transactions` tab. Unless you want a detailed summary.
+**Hundreds of transactions to add:** You probably be alright adding the average price you paid for each stock in the `Transactions` tab. Unless you want a detailed summary, here is how:
   - Sum all the prices you've paid for a stock and divide it by the number of transactions to get your average cost.
   - Use exchange `1` and add your average cost to that stock at `Buy/Sell Price` in your own currency.
   - From there you can carry on adding transactions individually.
