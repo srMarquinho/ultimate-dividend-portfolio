@@ -5,6 +5,8 @@
 
 1. It's extremely easy to use and easy for the eyes (or at least intended to). Add your transactions and :boom:
 
+1. Get started and setup in under 3 minutes.
+
 1. It's 100% free! No subscriptions, no ads and no sign-ups.
 
 1. View and buy at any currency.
@@ -13,9 +15,11 @@
 
 1. **Wish List**
     - Add the ticker and the value you wish to sell or buy and track if your wish came true with detailed information.
+    - The row with the stock will go green when to Buy and red when to Sell.
 
 1. **Portfolio - Portfolio Summary - Sectors Summary**
     - All the information you need about all stocks in your portfolio.
+    - Weight, Sector, Industry, Type, Currency, Exchange and more, all automatically populated displayed in graphs.
 
 1.  **Transactions - Transactions Summary**
     - This is where the magic lives. Add your transaction and track your actions.
@@ -67,17 +71,16 @@
 
 - **UPDATE NOTES:**
   - Copy and paste all yellowish cells and paste in the new sheet. (right click `Paste special` > `Paste values only`)
-  - **from beta**
-      - From the _Overrides_ section note that "Forward dividend" is no longer in use and the column has been deleted.
+  - Ensure `-` are actually `0`.
   - **from 1.0.x**
       - There's an extra column "account" in the "Dividend Income" tab.
 
 ### Tooltips
 
-- Check for tooltips by hovering over the first row cells.
+- Check for **tooltips** by hovering over the first row cells.
 - I encourage you to chase tooltips ;D
 
-### _Overrides_ - (Missing stock data in the "Portfolio")
+### Overrides tab - (Missing stock data in the "Portfolio")
 
 - This is optional.
 - At times "the provider" may not have the information for the ticker you entered. Showing N/A.
@@ -90,7 +93,7 @@
 - Order doesn't matter, all entries can be added in any order. A striped triangle in the first row can be used for re-ordering. For instance, you can order the "Portfolio" by name. My preferred way is by weight (Sort Z - A).
 - In the _"Portfolio"_ section you can also drag and drop columns and rows to re-order (just don't delete them). How cool is that?
 - Why not trying to sort by "Sectors", "Return %" or "Ex-dividend day"? ;)
-- When switching between accounts in the "Portfolio" tab you might need to sort again to remove blank lines.
+- NOTE: When switching between accounts in the "Portfolio" tab you might need to sort again to remove blank lines.
 
 ### Currency
 
