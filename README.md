@@ -123,7 +123,7 @@
 
 Please, please, please. Do not email me reporting these errors.
 
-## "#ERROR!" or "Loading..."
+### "#ERROR!" or "Loading..."
 
 Use the menu at the top:
   - `PORTFOLIO` > `Refresh portfolio calculations` to refresh the cells.
@@ -132,11 +132,11 @@ Use the menu at the top:
 
 They are Google errors and seem to be related to cache. Google caches each cell and sometimes they get stuck. :neutral_face:
 
-## Ticker with double digits exchange displayed as link
+### Ticker with double digits exchange displayed as link
 
 Stocks with double digits in its ticker symbol (i.e. from Germany with `.DE`). Disable by right-clicking and choosing unlink. If you know a setting to disable that by default, please let me know.
 
-## New issues and features
+### New issues and features
 
 You are welcome to open issues an features here on GitHub.
 
