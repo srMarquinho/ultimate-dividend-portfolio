@@ -20,6 +20,7 @@
 1. **Portfolio - Portfolio Summary - Sectors Summary**
     - All the information you need about all stocks in your portfolio.
     - Weight, Sector, Industry, Type, Currency, Exchange and more, all automatically populated displayed in graphs.
+    - Hyperlinked taking you directly the provider for even more information out of the box.
 
 1.  **Transactions - Transactions Summary**
     - This is where the magic lives. Add your transaction and track your actions.
@@ -35,9 +36,9 @@
 1. Make a copy of the spreadsheet.
     If sharing, bookmarking or saving the link. Use [this GitHub page](https://srmarquinho.github.io/ultimate-dividend-portfolio/) as the copy link may likely change overtime.
 
-    :bar_chart: [Here is an example with my own portfolio for reference](https://docs.google.com/spreadsheets/d/11TTXusLRZ4FY0hlNKK0wxT6kyhfAZi5dP8sACWZaauA/edit?usp=sharing)
+    :bar_chart: [Here is an example with my own portfolio for reference](https://docs.google.com/spreadsheets/d/1Wjj30H6QfW2K9zde6MlSEVGWgDUl04YHB-e6fE1Ddn4/edit?usp=sharing)
 
-    :bar_chart: [**Here is the blank template you need to make a COPY**](https://docs.google.com/spreadsheets/d/1bKsZjc8phniiR7NSL_pzfpgbLte4eVXMxAm57KPmLdA/copy?usp=sharing) - this will create a copy to yourself on Google Drive!!!
+    :bar_chart: [**Here is the blank template you need to make a COPY**](https://docs.google.com/spreadsheets/d/1G43E_Z5TyqDw0cE8oaqOz-NULXbvqoM1KQs0msSuj3o/copy?usp=sharing) - this will create a copy to yourself on Google Drive!!!
 
 1. Install and authorize scripts. That's necessary to give scripts access to your sheets. You will only need to do this once.
 
@@ -73,12 +74,13 @@
   - Copy and paste all yellowish cells and paste in the new sheet. (right click `Paste special` > `Paste values only`)
   - Ensure `-` are actually `0`.
   - **from 1.0.x**
-      - There's an extra column "account" in the "Dividend Income" tab.
+      - There's an extra column "account" in the _"Dividend Income"_ tab.
+  - Check the [CHANGELOG](https://github.com/srMarquinho/ultimate-dividend-portfolio/blob/master/CHANGELOG.md) to see what's new.
 
 ### Tooltips
 
 - Check for **tooltips** by hovering over the first row cells.
-- I encourage you to chase tooltips ;D
+- I encourage you to chase tooltips, most will be self explanatory. :wink:
 
 ### Overrides tab - (Missing stock data in the "Portfolio")
 
@@ -98,11 +100,11 @@
 ### Currency
 
 - Once your "home" currency is chosen in the _"Settings"_, it should not be changed as it will be used for exchange based on the value added in _"Transactions"_.
-- Tip: In _"Transactions"_ your "home" currency exchange value will always be 1.
+- Tip: In _"Transactions"_ your "home" currency exchange value will always be `1`.
 
 ### Tips
 
-**Account view:** Double click cell `A1` in the "Portfolio" tab to select the account.
+**Account view:** Double click cell `A1` in the _"Portfolio"_ tab to select the account.
 
 **Find:** You can use `ctrl f` (`cmd f` on mac) to find for keywords in your sheet.
 
@@ -117,9 +119,11 @@
     <img alt="Average Transactions Example" src="./images/AverageTransactionsExample.png" width="100%">
   </div>
 
-## "#ERROR!" or "Loading..." Note
+## :beginner: Known issues
 
-If you see #ERROR! or Loading...
+Please, please, please. Do not email me reporting these errors.
+
+## "#ERROR!" or "Loading..."
 
 Use the menu at the top:
   - `PORTFOLIO` > `Refresh portfolio calculations` to refresh the cells.
@@ -128,9 +132,11 @@ Use the menu at the top:
 
 They are Google errors and seem to be related to cache. Google caches each cell and sometimes they get stuck. :neutral_face:
 
-Please please please. Do not email me reporting these errors.
+## Ticker with double digits exchange displayed as link
 
-## Issues and new features
+Stocks with double digits in its ticker symbol (i.e. from Germany with `.DE`). Disable by right-clicking and choosing unlink. If you know a setting to disable that by default, please let me know.
+
+## New issues and features
 
 You are welcome to open issues an features here on GitHub.
 
