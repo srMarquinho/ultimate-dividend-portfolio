@@ -77,7 +77,7 @@
       - There's an extra column "account" in the _"Dividend Income"_ tab.
   - Check the [CHANGELOG](https://github.com/srMarquinho/ultimate-dividend-portfolio/blob/master/CHANGELOG.md) to see what's new.
 
-### :bulb: Tooltips
+### Tooltips :bulb:
 
 - Check for **tooltips** by hovering over the first row cells.
 - I encourage you to chase tooltips, most will be self explanatory. :wink:
