@@ -5,7 +5,9 @@
 
 1. It's extremely easy to use and easy for the eyes (or at least intended to). Add your transactions and :boom:
 
-1. It's 100% free! No subscriptions and no sign-ups.
+1. Get started and setup in under 3 minutes.
+
+1. It's 100% free! No subscriptions, no ads and no sign-ups.
 
 1. View and buy at any currency.
 
@@ -13,9 +15,12 @@
 
 1. **Wish List**
     - Add the ticker and the value you wish to sell or buy and track if your wish came true with detailed information.
+    - The row with the stock will go green when to Buy and red when to Sell.
 
 1. **Portfolio - Portfolio Summary - Sectors Summary**
     - All the information you need about all stocks in your portfolio.
+    - Weight, Sector, Industry, Type, Currency, Exchange and more, all automatically populated displayed in graphs.
+    - Hyperlinked taking you directly the provider for even more information out of the box.
 
 1.  **Transactions - Transactions Summary**
     - This is where the magic lives. Add your transaction and track your actions.
@@ -31,9 +36,9 @@
 1. Make a copy of the spreadsheet.
     If sharing, bookmarking or saving the link. Use [this GitHub page](https://srmarquinho.github.io/ultimate-dividend-portfolio/) as the copy link may likely change overtime.
 
-    :bar_chart: [Here is an example with my own portfolio for reference](https://docs.google.com/spreadsheets/d/11TTXusLRZ4FY0hlNKK0wxT6kyhfAZi5dP8sACWZaauA/edit?usp=sharing)
+    :bar_chart: [Here is an example with my own portfolio for reference](https://docs.google.com/spreadsheets/d/1Wjj30H6QfW2K9zde6MlSEVGWgDUl04YHB-e6fE1Ddn4/edit?usp=sharing)
 
-    :bar_chart: [**Here is the blank template you need to make a COPY**](https://docs.google.com/spreadsheets/d/1bKsZjc8phniiR7NSL_pzfpgbLte4eVXMxAm57KPmLdA/copy?usp=sharing) - this will create a copy to yourself on Google Drive!!!
+    :bar_chart: [**Here is the blank template you need to make a COPY**](https://docs.google.com/spreadsheets/d/1G43E_Z5TyqDw0cE8oaqOz-NULXbvqoM1KQs0msSuj3o/copy?usp=sharing) - this will create a copy to yourself on Google Drive!!!
 
 1. Install and authorize scripts. That's necessary to give scripts access to your sheets. You will only need to do this once.
 
@@ -61,20 +66,23 @@
 
     <div><img src="./images/Table.png" width="150"></div>
 
-1. That's all! You are ready. Start adding _"Transactions"_ to see the magic happen.
+1. You are ready. Start adding _"Transactions"_ to see the magic happen.
     - Ensure `-` are actually `0`.
     - You can add one transaction per stock with the average value paid if that's preferable by you.
 
-- **NOTE: If you are updating from beta.**
+- **UPDATE NOTES:**
   - Copy and paste all yellowish cells and paste in the new sheet. (right click `Paste special` > `Paste values only`)
-  - From the _Overrides_ section note that "Forward dividend" is no longer in use and the column has been deleted.
+  - Ensure `-` are actually `0`.
+  - **from 1.0.x**
+      - There's an extra column "account" in the _"Dividend Income"_ tab.
+  - Check the [CHANGELOG](https://github.com/srMarquinho/ultimate-dividend-portfolio/blob/master/CHANGELOG.md) to see what's new.
 
-### Tooltips
+### Tooltips :bulb:
 
-- Check for tooltips by hovering over the first row cells.
-- I encourage you to chase tooltips ;D
+- Check for **tooltips** by hovering over the first row cells.
+- I encourage you to chase tooltips, most will be self explanatory. :wink:
 
-### _Overrides_ - (Missing stock data in the "Portfolio")
+### Overrides tab - (Missing stock data in the "Portfolio")
 
 - This is optional.
 - At times "the provider" may not have the information for the ticker you entered. Showing N/A.
@@ -86,22 +94,23 @@
 - Sorting is one of the best features and it has being kept in mind during development.
 - Order doesn't matter, all entries can be added in any order. A striped triangle in the first row can be used for re-ordering. For instance, you can order the "Portfolio" by name. My preferred way is by weight (Sort Z - A).
 - In the _"Portfolio"_ section you can also drag and drop columns and rows to re-order (just don't delete them). How cool is that?
-- Why not trying to sort by "Sectors", "Return %" or "Ex-dividend day"? ;)
+- Why not trying to sort by "Sectors", "Return %" or "Ex-dividend day"? :wink:
+- **NOTE:** When switching between accounts in the "Portfolio" tab you might need to sort again to remove blank rows.
 
 ### Currency
 
 - Once your "home" currency is chosen in the _"Settings"_, it should not be changed as it will be used for exchange based on the value added in _"Transactions"_.
-- Tip: In _"Transactions"_ your "home" currency exchange value will always be 1.
+- Tip: In _"Transactions"_ your "home" currency exchange value will always be `1`.
 
 ### Tips
 
+**Account view:** If working with multiple accounts, double click cell `A1` in the _"Portfolio"_ tab to select between them.
+
 **Find:** You can use `ctrl f` (`cmd f` on mac) to find for keywords in your sheet.
 
-**Too big:** Use `ctrl -` (`cmd -` on mac) to zoom out.
+**Too big or too small:** Use `ctrl -` (`cmd -` on mac) to zoom out or `ctrl +` (`cmd +` on mac) to zoom in.
 
-**Too small:** Use `ctrl +` (`cmd +` on mac) to zoom in.
-
-**Hundreds of transactions to add:** You probably be alright adding the average price you paid for each stock in the `Transactions` tab. Unless you want a detailed summary.
+**Hundreds of transactions to add:** You'll probably be alright adding the average price you paid for each stock in the `Transactions` tab. Unless you want a detailed summary, here is how:
   - Sum all the prices you've paid for a stock and divide it by the number of transactions to get your average cost.
   - Use exchange `1` and add your average cost to that stock at `Buy/Sell Price` in your own currency.
   - From there you can carry on adding transactions individually.
@@ -110,9 +119,11 @@
     <img alt="Average Transactions Example" src="./images/AverageTransactionsExample.png" width="100%">
   </div>
 
-## "#ERROR!" or "Loading..." Note
+## :beginner: Known issues
 
-If you see #ERROR! or Loading...
+Please, please, please. Do not email me reporting these errors.
+
+### "#ERROR!" or "Loading..."
 
 Use the menu at the top:
   - `PORTFOLIO` > `Refresh portfolio calculations` to refresh the cells.
@@ -121,11 +132,13 @@ Use the menu at the top:
 
 They are Google errors and seem to be related to cache. Google caches each cell and sometimes they get stuck. :neutral_face:
 
-Please please please. Do not email me reporting these errors.
+### Ticker with double digits exchange displayed as link
 
-## Issues and new features
+Stocks with double digits in its ticker symbol (i.e. from Germany with `.DE`). Disable by right-clicking and choosing unlink. If you know a setting to disable that by default, please let me know.
 
-You are welcome to open issues an features here on GitHub.
+### New issues and features
+
+You are welcome to open issues and features here on GitHub.
 
 :children_crossing: Just keep in mind I'm a busy dad full time worker and it may take some time for your wish to come true.
 

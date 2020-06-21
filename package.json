@@ -1,0 +1,54 @@
+{
+  "name": "ultimate-dividend-portfolio",
+  "description": "Ultimately an essential - powerful - easy to use - dividend portfolio sheet",
+  "version": "1.1.1",
+  "keywords": [
+    "dividend-portfolio-sheet",
+    "essential",
+    "spreadsheet",
+    "sheets",
+    "google-sheets",
+    "dividend",
+    "investing",
+    "portfolio",
+    "sheet",
+    "easy",
+    "template",
+    "copy",
+    "trading",
+    "ticker",
+    "currency",
+    "exchange",
+    "sort",
+    "transactions",
+    "tooltips",
+    "tracking",
+    "tracker"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srMarquinho/ultimate-dividend-portfolio"
+  },
+  "author": {
+    "name": "Marco Araujo",
+    "email": "sr.marquinho@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/srMarquinho/ultimate-dividend-portfolio/issues"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "grunt"
+  },
+  "files": [
+    "src"
+  ],
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-uglify-es": "^3.3.0"
+  }
+}
