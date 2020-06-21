@@ -104,13 +104,13 @@
 
 ### Tips
 
-**Account view:** Double click cell `A1` in the _"Portfolio"_ tab to select the account.
+**Account view:** If working with multiple accounts, double click cell `A1` in the _"Portfolio"_ tab to select between them.
 
 **Find:** You can use `ctrl f` (`cmd f` on mac) to find for keywords in your sheet.
 
 **Too big or too small:** Use `ctrl -` (`cmd -` on mac) to zoom out or `ctrl +` (`cmd +` on mac) to zoom in.
 
-**Hundreds of transactions to add:** You probably be alright adding the average price you paid for each stock in the `Transactions` tab. Unless you want a detailed summary, here is how:
+**Hundreds of transactions to add:** You'll probably be alright adding the average price you paid for each stock in the `Transactions` tab. Unless you want a detailed summary, here is how:
   - Sum all the prices you've paid for a stock and divide it by the number of transactions to get your average cost.
   - Use exchange `1` and add your average cost to that stock at `Buy/Sell Price` in your own currency.
   - From there you can carry on adding transactions individually.
@@ -138,7 +138,7 @@ Stocks with double digits in its ticker symbol (i.e. from Germany with `.DE`). D
 
 ### New issues and features
 
-You are welcome to open issues an features here on GitHub.
+You are welcome to open issues and features here on GitHub.
 
 :children_crossing: Just keep in mind I'm a busy dad full time worker and it may take some time for your wish to come true.
 
