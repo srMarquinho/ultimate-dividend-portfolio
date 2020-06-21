@@ -77,7 +77,7 @@
       - There's an extra column "account" in the _"Dividend Income"_ tab.
   - Check the [CHANGELOG](https://github.com/srMarquinho/ultimate-dividend-portfolio/blob/master/CHANGELOG.md) to see what's new.
 
-### Tooltips
+### :bulb: Tooltips
 
 - Check for **tooltips** by hovering over the first row cells.
 - I encourage you to chase tooltips, most will be self explanatory. :wink:
@@ -94,8 +94,8 @@
 - Sorting is one of the best features and it has being kept in mind during development.
 - Order doesn't matter, all entries can be added in any order. A striped triangle in the first row can be used for re-ordering. For instance, you can order the "Portfolio" by name. My preferred way is by weight (Sort Z - A).
 - In the _"Portfolio"_ section you can also drag and drop columns and rows to re-order (just don't delete them). How cool is that?
-- Why not trying to sort by "Sectors", "Return %" or "Ex-dividend day"? ;)
-- NOTE: When switching between accounts in the "Portfolio" tab you might need to sort again to remove blank lines.
+- Why not trying to sort by "Sectors", "Return %" or "Ex-dividend day"? :wink:
+- **NOTE:** When switching between accounts in the "Portfolio" tab you might need to sort again to remove blank rows.
 
 ### Currency
 
