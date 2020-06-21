@@ -1,6 +1,8 @@
 /**
  * getResource
  *
+ * @param {*} ticker
+ * @returns
  */
 function getResource(ticker) {
   const stores = getStores(ticker);
@@ -26,6 +28,8 @@ function getResource(ticker) {
 /**
  * getStores
  *
+ * @param {*} ticker
+ * @returns
  */
 function getStores(ticker) {
   try {

@@ -1,6 +1,7 @@
 /**
- * range, fromDate, toDate, items[]
+ * filterData
  *
+ * @returns
  */
 function filterData() {
   let [range, fromDate, toDate, ...items] = arguments;
@@ -18,8 +19,11 @@ function filterData() {
 }
 
 /**
+ * filterRowByItem
  *
- *
+ * @param {*} range
+ * @param {*} item
+ * @returns
  */
 function filterRowByItem(range, item) {
   return range.reduce((acc, row) => {
@@ -31,8 +35,12 @@ function filterRowByItem(range, item) {
 }
 
 /**
+ * filterRowByDate
  *
- *
+ * @param {*} range
+ * @param {*} fromDate
+ * @param {*} toDate
+ * @returns
  */
 function filterRowByDate(range, fromDate, toDate) {
   return range.reduce((acc, row) => {

@@ -10,7 +10,7 @@ function deleteAllTriggers() {
 }
 
 /**
- * createTriggers
+ * createAllTriggers
  *
  */
 function createAllTriggers() {

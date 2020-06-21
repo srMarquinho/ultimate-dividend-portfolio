@@ -1,38 +1,47 @@
 /**
+ * defaultType
  *
- *
+ * @returns
  */
 function defaultType() {
   return 'Index/ETF';
 }
 
 /**
+ * getName
  *
- *
+ * @param {*} quoteSummary
+ * @returns
  */
 function getName(quoteSummary) {
   return sanitize(quoteSummary['price']['longName']);
 }
 
 /**
+ * getExchange
  *
- *
+ * @param {*} quoteSummary
+ * @returns
  */
 function getExchange(quoteSummary) {
   return quoteSummary['price']['exchange'];
 }
 
 /**
+ * getMarketPrice
  *
- *
+ * @param {*} quoteSummary
+ * @returns
  */
 function getMarketPrice(quoteSummary) {
   return quoteSummary['price']['regularMarketPrice']['raw'];
 }
 
 /**
+ * getCurrency
  *
- *
+ * @param {*} quoteSummary
+ * @returns
  */
 function getCurrency(quoteSummary) {
   const currency = quoteSummary['price']['currency'];
@@ -43,8 +52,10 @@ function getCurrency(quoteSummary) {
 }
 
 /**
+ * getSector
  *
- *
+ * @param {*} quoteSummary
+ * @returns
  */
 function getSector(quoteSummary) {
   const summaryProfile = quoteSummary['summaryProfile'];
@@ -55,8 +66,10 @@ function getSector(quoteSummary) {
 }
 
 /**
+ * getIndustry
  *
- *
+ * @param {*} quoteSummary
+ * @returns
  */
 function getIndustry(quoteSummary) {
   const summaryProfile = quoteSummary['summaryProfile'];
@@ -67,8 +80,10 @@ function getIndustry(quoteSummary) {
 }
 
 /**
+ * getPERatio
  *
- *
+ * @param {*} quoteSummary
+ * @returns
  */
 function getPERatio(quoteSummary) {
   if (
@@ -82,8 +97,10 @@ function getPERatio(quoteSummary) {
 }
 
 /**
+ * getEPS
  *
- *
+ * @param {*} quoteSummary
+ * @returns
  */
 function getEPS(quoteSummary) {
   if (
@@ -97,8 +114,10 @@ function getEPS(quoteSummary) {
 }
 
 /**
+ * getDivYield
  *
- *
+ * @param {*} quoteSummary
+ * @returns
  */
 function getDivYield(quoteSummary) {
   if (
@@ -112,8 +131,10 @@ function getDivYield(quoteSummary) {
 }
 
 /**
+ * getDivShare
  *
- *
+ * @param {*} quoteSummary
+ * @returns
  */
 function getDivShare(quoteSummary) {
   if (
@@ -127,8 +148,10 @@ function getDivShare(quoteSummary) {
 }
 
 /**
+ * getExDividendDate
  *
- *
+ * @param {*} quoteSummary
+ * @returns
  */
 function getExDividendDate(quoteSummary) {
   if (
@@ -143,8 +166,10 @@ function getExDividendDate(quoteSummary) {
 }
 
 /**
+ * getDividendDate
  *
- *
+ * @param {*} quoteSummary
+ * @returns
  */
 function getDividendDate(quoteSummary) {
   if (
@@ -159,8 +184,10 @@ function getDividendDate(quoteSummary) {
 }
 
 /**
+ * getBeta5Year
  *
- *
+ * @param {*} quoteSummary
+ * @returns
  */
 function getBeta5Year(quoteSummary) {
   if (

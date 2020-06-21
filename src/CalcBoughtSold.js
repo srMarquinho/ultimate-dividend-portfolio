@@ -1,6 +1,7 @@
 /**
+ * calcBoughtSold
  *
- *
+ * @returns
  */
 function calcBoughtSold() {
   const [transactionsRange, dateColNumber, typeColNumber, sharesColNumber, totalColNumber, ...filterItems] = arguments;

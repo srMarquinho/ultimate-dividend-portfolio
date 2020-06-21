@@ -8,7 +8,7 @@ function onOpen() {
 }
 
 /**
- * addMenu
+ * addUiItems
  *
  */
 function addUiItems() {
