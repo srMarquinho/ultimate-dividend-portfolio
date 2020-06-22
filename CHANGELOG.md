@@ -11,7 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.1.0]
 ### Added
-- Filter by account in "Transactions Summary" and "Dividend Income Summary".
+- Filter by account in "Transactions".
+- Filter by account in "Dividend Income Summary".
 ### Changed
 - Fixed transactions calculation when sold all stocks and bought again.
 - "Sector Summary" show `N/A` when no yield instead of blank.
