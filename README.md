@@ -159,11 +159,6 @@ By doing this you will be contributing to future updates and features. **THANK Y
 <a href="https://paypal.me/srmarquinho">https://paypal.me/srmarquinho</a>
 </div>
 
-<div>
-  <img alt="Bitcoin" src="./images/BitcoinQR.png" width="100">
-  Bitcoin: 3MTkTrPT5M4GDoc8z8SW7iPc5Vu7s76QSH
-</div>
-
 ------------------
 
 <a href="www.trading212.com/invite/FMJUCzLD">
